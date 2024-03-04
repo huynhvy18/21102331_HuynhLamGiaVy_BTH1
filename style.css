@@ -1,0 +1,144 @@
+/* Bài 1*/
+h3{
+  color: red;
+  font-size: 25px;
+}
+.cty{
+  h1{
+   font-size: 70px;
+  }
+  strong {
+  color: blue;
+}
+  p{
+    font-size: 19px;
+  }
+}
+.viettien{
+  button{
+    background-color: #000000;
+    color: white;
+    padding: 17px 20px;
+    border: none;
+    margin: 0px 20px;
+    text-align: center;
+    font-size: 20px;
+  }
+}
+
+/* Bài 2 */
+.sch{
+  h2{
+    font-size: 25px;
+  }
+}
+.nutdau{
+  button{
+    background-color: green;
+    color: white;
+    padding: 5px 15px;
+    margin: 10px;
+    font-size: 15px;
+  }
+}
+.nutsau{
+  button{
+    background-color: green;
+    color: white;
+    padding: 5px 15px;
+    margin: 10px;
+    font-size: 15px;
+  }
+}
+
+/* Bài 3*/
+.tragung{
+  color: gray;
+}
+.uudiem{
+  color: gray;
+}
+.docthem{
+  button{
+    background-color: blue;
+    color: white;
+    padding: 7px 30px;
+    font-size: 13px;
+  }
+}
+
+/*Bài 4*/
+.icon{
+  font-size: 50px;
+}
+.email{
+  input{
+    padding: 15px 120px 15px 5px;
+    margin: 10px;
+  }
+}
+.gui{
+  button{
+    background-color: blue;
+    color: white;
+    padding: 17px 25px;
+    font-size: 15px;
+}
+}
+  
+/* Bài 5*/
+.cohoi{
+  background-image: url("https://cdn.glitch.global/69efacba-148f-4665-b992-b6e6c92fd398/3bda1e23-89db-4995-b38e-0f3b75a41d8a.image.png?v=1709489758810");
+  background-position: center center;
+  padding: 100px;
+  h1{
+    color: white;
+  }
+  p{
+    color: white;
+  }
+  button{
+    background-color: red;
+    color: white;
+    padding: 20px 15px;
+    font-size: 13px;
+  }
+}
+
+/* Bài 6*/
+.galaxy{
+  background-image: url("https://cdn.glitch.global/69efacba-148f-4665-b992-b6e6c92fd398/9a8b74b9-490a-4f2f-8419-1bee423f05a7.image.png?v=1709545251282");
+  background-position: center center;
+  padding: 100px;
+}
+.cot1{
+  display: flex;
+}
+.cot {
+  flex: 1;
+  text-align: center;
+}
+.icon1{
+  font-size: 40px;
+  color: green;
+}
+.icon2{
+  font-size: 40px;
+  color: pink;
+}
+.icon3{
+  font-size: 40px;
+  color: red;
+}
+.icon4{
+  font-size: 40px;
+  color: blue;
+}
+.cau1{
+  font-size: 40px;
+  color: white;
+}
+.cau2{
+  font-size: 20px;
+  color: yellow;
+}
